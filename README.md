@@ -2,10 +2,10 @@
 Olá, meu nome é Natália, tenho 17 anos.
 
 Gosto de:
-- Memes de gatos
-- Viajar
-- Dormir
+ - Memes de gatos
+ - Viajar
+ - Dormir
   
-  Não gosto de:
+Não gosto de:
   - Programar
     
