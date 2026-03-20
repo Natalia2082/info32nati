@@ -6,4 +6,5 @@ Gosto de:
 - Dormir
   Não gosto de:
   - Programar
+  - Barata
     
