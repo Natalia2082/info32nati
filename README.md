@@ -7,5 +7,5 @@ Gosto de:
   
   Não gosto de:
   - Programar
-  - Barata
+  - Insetos
     
